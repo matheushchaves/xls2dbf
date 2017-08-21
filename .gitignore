@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.bc
+Build_xls2dbf.bat
+*.log
+principal.c
+*.obj
+xls2dbf.map
+*.tds
+*.xTag
